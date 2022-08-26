@@ -1,0 +1,1 @@
+g++ -Wall cra.cpp -o cra.exe -static

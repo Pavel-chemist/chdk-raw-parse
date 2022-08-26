@@ -1,0 +1,1 @@
+g++ -Wall ref.cpp -o ref.exe -static
